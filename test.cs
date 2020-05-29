@@ -1,24 +1,23 @@
 using System;
 using System.Threading;
 
-
-
-public class CLpara {
-
+public class CLpara{
+    
     int count;
-
-
-    public void method_para {
+    public method_para(){
         Thread.Sleep(1000);
-        console.writelineNewStruct;
-        
-        for (count = 0; count < 10; count = count++)
+        for (count = 0; count < 10; count++){
+            Console.WriteLine(count);
+        }
     }
 
-static void main() => method_para();
+    public static main(){
 
-    
+    }
+
 }
 
 main();
+method_para();
 
+Console.WriteLine("ok");
