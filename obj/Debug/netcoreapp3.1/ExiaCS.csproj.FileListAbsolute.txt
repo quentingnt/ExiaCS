@@ -1,0 +1,12 @@
+/Users/quentinguenot/Desktop/ExiaCS/bin/Debug/netcoreapp3.1/ExiaCS.deps.json
+/Users/quentinguenot/Desktop/ExiaCS/bin/Debug/netcoreapp3.1/ExiaCS.runtimeconfig.json
+/Users/quentinguenot/Desktop/ExiaCS/bin/Debug/netcoreapp3.1/ExiaCS.runtimeconfig.dev.json
+/Users/quentinguenot/Desktop/ExiaCS/bin/Debug/netcoreapp3.1/ExiaCS.dll
+/Users/quentinguenot/Desktop/ExiaCS/bin/Debug/netcoreapp3.1/ExiaCS.pdb
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.csprojAssemblyReference.cache
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.AssemblyInfoInputs.cache
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.AssemblyInfo.cs
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.csproj.CoreCompileInputs.cache
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.dll
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.pdb
+/Users/quentinguenot/Desktop/ExiaCS/obj/Debug/netcoreapp3.1/ExiaCS.genruntimeconfig.cache
